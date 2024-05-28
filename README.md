@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**pippa529/pippa529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é pedro pippa
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para organização e compartilhaento dos meu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato consigo 📫
+
+henriquephp529@gmail.com
+
+@henriquephp529
+
